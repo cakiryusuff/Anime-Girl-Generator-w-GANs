@@ -16,3 +16,4 @@ https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
 
 An example picture from my site
 <div align= center><img src="ts_img/aaaa.PNG" width=600 height=300/></div>
+<div align= center><img src="ts_img/bbbb.PNG" width=600 height=300/></div>
