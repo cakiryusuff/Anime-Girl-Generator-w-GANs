@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  
+  <!-- Make it compatible to mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>ThisAnimeGirlDoesNotExist</title>
+   <style>
+      .center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; /* Ekran yüksekliği kadar */
+      }
+    </style>
+</head>
+
+<body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);">
+    <div class = "center">
+   <img style="display: flex;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" 
+   src="{{ url_for('static', filename='images/animeGirl.jpg') }}" 
+   class="image" width="1600" height= "400"/>
+   </div>
+</body>
+</html>
