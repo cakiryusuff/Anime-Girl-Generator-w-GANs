@@ -1,6 +1,6 @@
 # Anime-Girl-Generator-w-GANs
  
-First of all, this is a local flask website. You need to run website.py file. After that go this address http://127.0.0.1:5000/
+First of all, this is a local flask website. You need to run website.py file. After that go this address http://127.0.0.1:5000/ . Every time when you reload page, there is will be new images. But it could be bad images.
 
 This project using 2 GAN model, DCGAN and SRGAN. I used thispersondoesnotexist.com site as inspiration for this project.
 
