@@ -11,5 +11,8 @@ For SRGAN model train Dataset https://press.liacs.nl/mirflickr/mirdownload.html
 If you want to train your own SRGAN model, you can use my prepared Google Colab Notebook.
 https://colab.research.google.com/drive/1EY9VPrr4Ggp5tqn-B7Xl61kEoCzeSxUo?usp=sharing
 
+If you want to train your own DCGAN model, Pytorch has a page for it
+https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
+
 An example picture from my site
 <div align= center><img src="ts_img/aaaa.PNG" width=600 height=300/></div>
